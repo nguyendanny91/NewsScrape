@@ -1,0 +1,36 @@
+.banner {
+    height: 400px;
+    width: 100%;
+    max-height: 30em;
+    max-width: 100%;
+    min-height: 20%;
+    min-width: 30%;
+    background-image: url("https://www.gadberrygroup.com/wp-content/uploads/2016/07/sunset-blurred-background-freebie.jpg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.headerfont {
+  color: white;
+  font: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 5em;
+  text-align: center;
+}
+
+.bg-light {
+  background-color: lavender !important;
+}
+
+.img {
+  height: auto;
+  width: auto;
+  max-height: 72px;
+  max-width: 250px;
+}
+
+.right {
+  justify-content: right;
+}
