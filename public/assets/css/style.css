@@ -34,3 +34,23 @@
 .right {
   justify-content: right;
 }
+
+.eachrecord {
+  border-bottom: 5px solid gray;
+}
+
+.articleimg {
+  height: auto;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.articletext {
+  align-items: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
